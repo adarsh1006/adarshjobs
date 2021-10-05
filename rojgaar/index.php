@@ -15,7 +15,7 @@
             <div class="logo">
                 <img src="untitled.png" alt="logo" >
             </div>
-            <li> <a href="index.html">Home</a></li>
+            <li> <a href="index.php">Home</a></li>
             <li> <a href="#about">About Us</a></li>
             <li> <a href="login.html">Login</a></li>
             <li> <a href="#contact">Contact Us</a></li>
